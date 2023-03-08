@@ -32,6 +32,6 @@ Example input and output is "input.pdf" and "output.pdf" which can be found in d
 python pdf_binarizer.py example/input.pdf --output_path=example/output.pdf
 ```
 
-## Connect me
+## Contact me
 
 qy_lation@outlook.com
